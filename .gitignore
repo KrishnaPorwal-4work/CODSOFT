@@ -16,3 +16,4 @@ Thumbs.db
 
 # Large or unnecessary files (optional)
 *.log
+.vscode/
